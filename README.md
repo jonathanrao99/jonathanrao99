@@ -23,7 +23,7 @@
 
 
 ### 🌟 What Drives Me
----
+--
 <div>
 
 I'm passionate about bridging the gap between **data insights** and **real-world impact**. Whether I'm analyzing customer behavior patterns, building AI-powered applications, or automating business processes, I believe technology should solve genuine problems and create meaningful value.

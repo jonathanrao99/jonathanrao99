@@ -79,21 +79,6 @@ My journey spans from managing a food truck business (where I built all the tech
 
 ---
 
-## 🎯 Current Goals & Interests
-
-<div align="center">
-
-| 🔍 **Seeking** | 🛠️ **Building** | 📚 **Learning** |
-|:---:|:---:|:---:|
-| Data Analyst Internships | AI-powered business tools | Advanced ML techniques |
-| Full-stack Development roles | Automation frameworks | Cloud architecture |
-| Freelance opportunities | Data visualization dashboards | Modern web frameworks |
-| Collaboration projects | API integrations | DevOps practices |
-
-</div>
-
----
-
 ## 📬 Let's Build Something Amazing Together!
 
 <div align="center">
@@ -101,10 +86,10 @@ My journey spans from managing a food truck business (where I built all the tech
 ### *Got an idea? Need a development partner or data wizard? Let's connect!* 
 
 **I'm always excited to discuss:**
- 💡 Innovative project ideas
- 📊 Data analysis challenges  
- 🤖 AI/ML implementations
- 🚀 Startup opportunities
- 🤝 Open source collaborations
+-💡 Innovative project ideas
+-📊 Data analysis challenges  
+-🤖 AI/ML implementations
+-🚀 Startup opportunities
+-🤝 Open source collaborations
 
 </div>

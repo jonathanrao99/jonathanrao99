@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -22,59 +20,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
 </div>
-
----
-
-## 🚀 What I'm Building
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 **QuickBite** 
-*AI-powered restaurant solutions*
-- Intelligent menu builder
-- Stripe payment integration
-- Shipday delivery management
-- Real-time order tracking
-
-**Tech Stack:** `React` `Node.js` `AI/ML` `Stripe API`
-
-[🔗 View Project](https://github.com/jonathanrao99/QuickBite)
-
-</td>
-<td width="50%">
-
-### 🛡️ **SwiftGuard**
-*Security booking platform*
-- Guard scheduling system
-- Real-time availability
-- Payment processing
-- Mobile-responsive design
-
-**Tech Stack:** `TypeScript` `Supabase` `TailwindCSS`
-
-[🔗 View Project](https://github.com/jonathanrao99/SwiftGuard)
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 📊 **Airbnb Analytics Dashboard**
-*Data visualization and insights platform*
-- Interactive dashboards with Streamlit
-- Natural Language Processing for reviews
-- Predictive pricing models
-- Geographic data visualization
-
-**Tech Stack:** `Python` `Streamlit` `Pandas` `Plotly` `NLP`
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🛠️ My Tech Arsenal
 

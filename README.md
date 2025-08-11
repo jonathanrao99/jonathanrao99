@@ -61,41 +61,15 @@
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-### 📊 **Stats Overview**
-![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathanrao99&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&custom_title=Jonathan's%20GitHub%20Journey)
-
-</td>
-<td width="50%">
-
-### 🔥 **Contribution Streak**
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jonathanrao99&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### 💻 **Most Used Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanrao99&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-</td>
-</tr>
-</table>
-
-### 📊 **Contribution Graph**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jonathanrao99&theme=tokyo-night&hide_border=true&area=true)
+![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathanrao99&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanrao99&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
-</div>
 
 ### 🌟 **What Drives Me**
 
@@ -132,7 +106,5 @@ My journey spans from managing a food truck business (where I built all the tech
 - 🤖 AI/ML implementations
 - 🚀 Startup opportunities
 - 🤝 Open source collaborations
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>

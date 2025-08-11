@@ -3,11 +3,9 @@
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=📊+Aspiring+Data+Analyst;🚀+Full-Stack+Developer;🤖+AI+Tinkerer;🎮+Gamer+and+Anime+Fan;💡+Problem+Solver;🔥+Innovation+Explorer&font=Fira%20Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600)
-
 ### *Actively seeking internships & opportunities to build, analyze, and ship real-world solutions* ✨
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=jonathanrao99&label=Profile%20Views&color=58A6FF&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/jonathanrao99?label=Followers&style=for-the-badge&color=58A6FF)
 ![GitHub User's stars](https://img.shields.io/github/stars/jonathanrao99?label=Total%20Stars&style=for-the-badge&color=FFD700)
 
 </div>

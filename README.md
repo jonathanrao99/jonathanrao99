@@ -70,7 +70,6 @@ My journey spans from managing a food truck business (where I built all the tech
 
 </div>
 
----
 
 ## 📊 GitHub Stats
 
@@ -81,7 +80,6 @@ My journey spans from managing a food truck business (where I built all the tech
 
 </div>
 
----
 
 ## 📬 Let's Build Something Amazing Together!
 

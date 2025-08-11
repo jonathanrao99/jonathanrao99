@@ -21,12 +21,12 @@
 
 </div>
 
-### 🌟 **What Drives Me**
-
+### 🌟 What Drives Me
+<div>
 I'm passionate about bridging the gap between **data insights** and **real-world impact**. Whether I'm analyzing customer behavior patterns, building AI-powered applications, or automating business processes, I believe technology should solve genuine problems and create meaningful value.
 
 My journey spans from managing a food truck business (where I built all the tech systems myself) to pursuing advanced data science techniques. This unique blend of **entrepreneurial experience** and **technical expertise** allows me to understand both the business challenges and technical solutions needed to drive success.
-
+<div>
 
 ## 🛠️ My Tech Arsenal
 

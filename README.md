@@ -101,10 +101,10 @@ My journey spans from managing a food truck business (where I built all the tech
 ### *Got an idea? Need a development partner or data wizard? Let's connect!* 
 
 **I'm always excited to discuss:**
-- 💡 Innovative project ideas
-- 📊 Data analysis challenges  
-- 🤖 AI/ML implementations
-- 🚀 Startup opportunities
-- 🤝 Open source collaborations
+ 💡 Innovative project ideas
+ 📊 Data analysis challenges  
+ 🤖 AI/ML implementations
+ 🚀 Startup opportunities
+ 🤝 Open source collaborations
 
 </div>

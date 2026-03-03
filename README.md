@@ -73,12 +73,16 @@ My journey spans from managing a food truck business (where I built all the tech
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jonathanrao99/jonathanrao99/output/github-snake.svg" alt="Snake animation" />
+</p>
 
-![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathanrao99&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanrao99&layout=compact&theme=dark&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonathanrao99/jonathanrao99/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonathanrao99/jonathanrao99/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/jonathanrao99/jonathanrao99/output/github-snake.svg">
+</picture>
 
-</div>
 
 
 ## 📬 Let's Build Something Amazing Together!

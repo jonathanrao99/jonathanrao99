@@ -74,7 +74,7 @@ My journey spans from managing a food truck business (where I built all the tech
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jonathanrao99/jonathanrao99/output/github-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jonathanrao99/jonathanrao99/output/github-snake.svg" alt="Snake animation"/>
 </p>
 
 <picture>

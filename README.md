@@ -25,10 +25,6 @@ Looking for internships where I can actually build something
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanrao99/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel)](https://jonathanthota.vercel.app)
-[![Blog](https://img.shields.io/badge/Blog-black?style=flat-square&logo=medium)](https://medium.com/@jonathanthota)
-
 </td>
 <td width="45%" align="center">
 

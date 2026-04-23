@@ -1,60 +1,46 @@
-<div align="center">
+<table>
+<tr>
+<td width="55%">
 
-# Jonathan Thota
+# Hey, I'm Jonathan 👋
 
-CS @ Texas A&M &nbsp;·&nbsp; Houston, TX &nbsp;·&nbsp; Open to internships
+### I build things people actually use.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jonathanrao99-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jonathanrao99/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-jonathanthota.vercel.app-black?style=flat-square&logo=vercel)](https://jonathanthota.vercel.app)
-[![Email](https://img.shields.io/badge/Email-jonathanrao5576@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jonathanrao5576@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=jonathanrao99&style=flat-square&color=58A6FF&label=views)](https://github.com/jonathanrao99)
+I started by solving real problems.  
+At one point that meant running a food truck and building my own tools to keep it running.
 
-<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="380" alt="coding gif" />
-
-</div>
+Now it means building data tools, ML systems, and full-stack apps.
 
 ---
 
-I build data tools and full-stack apps. Before CS, I ran a food truck and built all the tech for it myself: inventory, ordering, reporting. That's probably why I care more about software that solves real problems than software that looks good in a slide deck.
+- messy data over clean demos  
+- working systems over pretty ideas  
+- ship fast, fix faster  
 
 ---
 
-## Stack
-
-| | |
-|---|---|
-| **Languages** | Python · JavaScript · TypeScript · SQL · R |
-| **Data** | Pandas · NumPy · Plotly · Streamlit · Power BI |
-| **AI / ML** | scikit-learn · LangChain · OpenAI API · Hugging Face |
-| **Infra** | AWS · Docker · Supabase · GitHub Actions |
-| **Frontend** | React · Tailwind CSS · Framer |
+**Right now**  
+Data Science @ Texas A&M  
+Building systems that hold up in real use  
 
 ---
 
-## Stats
+[LinkedIn](https://www.linkedin.com/in/jonathanrao99/) ·  
+[Portfolio](https://jonathanthota.vercel.app) ·  
+[Blog](https://medium.com/@jonathanthota)
 
-<div align="center">
+</td>
 
-![jonathanrao99's Stats](https://github-readme-stats.vercel.app/api?username=jonathanrao99&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanrao99&layout=compact&theme=github_dark&hide_border=true)](https://github.com/jonathanrao99)
+<td width="45%" align="center">
 
-</div>
+<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" />
 
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonathanrao99/jonathanrao99/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonathanrao99/jonathanrao99/output/github-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/jonathanrao99/jonathanrao99/output/github-snake.svg">
-</picture>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
-<sub>Gaming · Anime · Deploying on Fridays and immediately regretting it</sub>
+<sub>build → break → fix → ship → repeat</sub>
 </div>

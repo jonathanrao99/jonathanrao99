@@ -9,6 +9,8 @@ CS @ Texas A&M &nbsp;·&nbsp; Houston, TX &nbsp;·&nbsp; Open to internships
 [![Email](https://img.shields.io/badge/Email-jonathanrao5576@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jonathanrao5576@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=jonathanrao99&style=flat-square&color=58A6FF&label=views)](https://github.com/jonathanrao99)
 
+<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="380" alt="coding gif" />
+
 </div>
 
 ---
@@ -33,7 +35,7 @@ I build data tools and full-stack apps. Before CS, I ran a food truck and built 
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathanrao99&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true)](https://github.com/jonathanrao99)
+![jonathanrao99's Stats](https://github-readme-stats.vercel.app/api?username=jonathanrao99&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 &nbsp;
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanrao99&layout=compact&theme=github_dark&hide_border=true)](https://github.com/jonathanrao99)
 

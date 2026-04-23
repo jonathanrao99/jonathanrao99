@@ -2,35 +2,34 @@
 <tr>
 <td width="55%">
 
-# Hey, I'm Jonathan 👋
+# Jonathan Thota
 
-### I build things people actually use.
+### CS @ Texas A&M &nbsp;·&nbsp; Houston, TX
 
-I started by solving real problems.  
-At one point that meant running a food truck and building my own tools to keep it running.
+I started by running a food truck and building all the tech to keep it alive.
+Now I build data tools, ML pipelines, and full-stack apps.
 
-Now it means building data tools, ML systems, and full-stack apps.
-
----
-
-- messy data over clean demos  
-- working systems over pretty ideas  
-- ship fast, fix faster  
+Same idea, bigger problems.
 
 ---
 
-**Right now**  
-Data Science @ Texas A&M  
-Building systems that hold up in real use  
+- real data over clean demos
+- working systems over pretty slides
+- ship it, break it, fix it
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/jonathanrao99/) ·  
-[Portfolio](https://jonathanthota.vercel.app) ·  
-[Blog](https://medium.com/@jonathanthota)
+**Currently**
+Data Science student @ Texas A&M
+Looking for internships where I can actually build something
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanrao99/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel)](https://jonathanthota.vercel.app)
+[![Blog](https://img.shields.io/badge/Blog-black?style=flat-square&logo=medium)](https://medium.com/@jonathanthota)
 
 </td>
-
 <td width="45%" align="center">
 
 <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" />
@@ -42,5 +41,5 @@ Building systems that hold up in real use
 ---
 
 <div align="center">
-build → break → fix → ship → repeat
+<sub>build · break · fix · ship · repeat</sub>
 </div>

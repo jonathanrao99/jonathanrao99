@@ -42,5 +42,5 @@ Building systems that hold up in real use
 ---
 
 <div align="center">
-<sub>build → break → fix → ship → repeat</sub>
+build → break → fix → ship → repeat
 </div>

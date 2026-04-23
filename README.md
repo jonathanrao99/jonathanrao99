@@ -2,7 +2,7 @@
 <tr>
 <td width="55%">
 
-# Jonathan Thota
+# Hello World👋🏽
 
 ### CS @ Texas A&M &nbsp;·&nbsp; Houston, TX
 
@@ -41,5 +41,5 @@ Looking for internships where I can actually build something
 ---
 
 <div align="center">
-<sub>build · break · fix · ship · repeat</sub>
+build · break · fix · ship · repeat
 </div>

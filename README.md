@@ -23,8 +23,6 @@ Same idea, bigger problems.
 Data Science student @ Texas A&M
 Looking for internships where I can actually build something
 
----
-
 </td>
 <td width="45%" align="center">
 

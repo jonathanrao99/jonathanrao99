@@ -11,13 +11,11 @@ Now I build data tools, ML pipelines, and full-stack apps.
 
 Same idea, bigger problems.
 
----
 
 - real data over clean demos
 - working systems over pretty slides
 - ship it, break it, fix it
 
----
 
 **Currently**
 Data Science student @ Texas A&M
@@ -33,7 +31,6 @@ Looking for internships where I can actually build something
 </tr>
 </table>
 
----
 
 <div align="center">
 build · break · fix · ship · repeat

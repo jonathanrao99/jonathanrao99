@@ -3,22 +3,29 @@
 <td width="55%">
 
 
-## Hello World 👋🏽
+# "Experience"
 
-**CS @ Texas A&M** · **Houston, TX**
+Started a food truck. The food was real.
+The bugs were real.
+The customer complaints were extremely real.
 
-I started by running a food truck and building the tech that kept it moving.
+Built the software, dashboards, automations, and reporting systems needed to keep the business running.
 
-Now I build data tools, ML pipelines, and full-stack apps for messy, real-world problems.
+Somewhere along the way I accidentally got an M.S. in Data Science.
 
-Same mindset. Bigger systems.
+Now I spend my time building data pipelines, ML models, AI tools, full-stack applications, and occasionally production incidents.
 
-**Real data > clean demos**  
-**Working systems > pretty slides**  
-**Ship it. Break it. Fix it.**
+### Currently Learning
+- Reading stack traces without emotional damage
+- Explaining to people that AI is not magic
+- Why the bug disappears when someone else looks at it
+- Enterprise-grade Googling
 
-Data Science graduate from Texas A&M, currently looking for internships and early-career roles where I can build, learn, and ship real products.
-
+#### Certifications
+- "It worked on my machine"
+- Professional CTRL+C / CTRL+V Engineer
+- Senior Production Bug Creator
+- AWS (Ask Why Suddenly)
 
 </td>
 <td width="45%" align="center">
@@ -31,5 +38,5 @@ Data Science graduate from Texas A&M, currently looking for internships and earl
 
 
 <div align="center">
-build · break · fix · ship · repeat
+Vibe coding is obsolete. Real ones aura code.
 </div>

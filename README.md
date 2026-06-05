@@ -1,7 +1,3 @@
-<table>
-<tr>
-<td width="55%">
-
 
 # "Experience"
 

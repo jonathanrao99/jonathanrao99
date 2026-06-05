@@ -2,24 +2,19 @@
 <tr>
 <td width="55%">
 
-# Hello World👋🏽
+"Experience"
+Director of dynamic interpolation for comprehensive media distribution and analysis as it applies to heuristic community building and efficient workplace design practices through the open ambiguity foundation. Former head of technical minutiae at the global foundation of situational systematic dependence and programmatic regression analysis. Lead team lead at corpcorp.
 
-### CS @ Texas A&M &nbsp;·&nbsp; Houston, TX
-
-I started by running a food truck and building all the tech to keep it alive.
-Now I build data tools, ML pipelines, and full-stack apps.
-
-Same idea, bigger problems.
-
-
-- real data over clean demos
-- working systems over pretty slides
-- ship it, break it, fix it
+Currently Learning
+Industrial confusion & inconviencience engineering
+Force push and pray
+verose abstraction (in the general sense as it applies to cubic regression)
+liquification
+analytical analysis
+Rats (those lil cheese eating gray guys)
+Vibe coding is obsolete, real ones aura code.
 
 
-**Currently**
-Data Science student @ Texas A&M
-Looking for internships where I can actually build something
 
 
 </td>

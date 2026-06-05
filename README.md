@@ -1,17 +1,23 @@
 <table>
 <tr>
 <td width="55%">
-Hello World👋🏽
-CS @ Texas A&M  ·  Houston, TX
-I started by running a food truck and building all the tech to keep it alive. Now I build data tools, ML pipelines, and full-stack apps.
 
-Same idea, bigger problems.
 
-real data over clean demos
-working systems over pretty slides
-ship it, break it, fix it
-Currently Data Science student @ Texas A&M Looking for internships where I can actually build something
+## Hello World 👋🏽
 
+**CS @ Texas A&M** · **Houston, TX**
+
+I started by running a food truck and building the tech that kept it moving.
+
+Now I build data tools, ML pipelines, and full-stack apps for messy, real-world problems.
+
+Same mindset. Bigger systems.
+
+**Real data > clean demos**  
+**Working systems > pretty slides**  
+**Ship it. Break it. Fix it.**
+
+Data Science graduate from Texas A&M, currently looking for internships and early-career roles where I can build, learn, and ship real products.
 
 
 </td>

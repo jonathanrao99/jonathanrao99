@@ -1,13 +1,13 @@
 
 # "Experience"
 
-Started a food truck. The food was real.
+Worked at a food truck. The food was real.
 The bugs were real.
 The customer complaints were extremely real.
 
 Built the software, dashboards, automations, and reporting systems needed to keep the business running.
 
-Somewhere along the way I accidentally got an M.S. in Data Science.
+Somewhere along the way I accidentally earned an M.S. in Data Science.
 
 Now I spend my time building data pipelines, ML models, AI tools, full-stack applications, and occasionally production incidents.
 

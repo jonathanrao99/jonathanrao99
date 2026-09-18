@@ -17,12 +17,6 @@ Now I spend my time building data pipelines, ML models, AI tools, full-stack app
 - Why the bug disappears when someone else looks at it
 - Enterprise-grade Googling
 
-#### Certifications
-- "It worked on my machine"
-- Professional CTRL+C / CTRL+V Engineer
-- Senior Production Bug Creator
-- AWS (Ask Why Suddenly)
-
 </td>
 <td width="45%" align="center">
 
